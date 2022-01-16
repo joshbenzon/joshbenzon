@@ -3,6 +3,7 @@
 I'm Josh, and I’m a second-year student at Brown University studying Computer Science with interests in Visual Computing, Machine Learning, Design, and Software Principles. I’m also an avid researcher in the Cognitive and Human Behavioral studies, specifically in emotional and artificial intelligence.
 
 💙 Pronouns: he/him
+
 📫 Contact Me: joshrbenzon@gmail.com
 
 <!--
