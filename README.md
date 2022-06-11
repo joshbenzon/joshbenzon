@@ -1,4 +1,4 @@
-### Hey hey hey! 😄
+### Hey hey! 😄
 
 I'm Josh **(he/him)**, and I’m an incoming third-year student at **Brown University** studying Computer Science with interests in Software Principles and Visual Computing. I’m also an avid researcher in the Cognitive and Human Behavioral studies, specifically in emotional and artificial intelligence along with computer vision.
 
