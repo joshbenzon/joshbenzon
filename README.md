@@ -9,6 +9,10 @@ I'm Josh **(he/him)**, and I'm a junior at **Brown University** studying Compute
 <!-- UPDATED: January 16, 2022 -->
 <!-- I'm Josh **(he/him)**, and I’m an incoming third-year student at **Brown University** studying Computer Science with interests in Software Principles and Visual Computing. I’m also an avid researcher in the Cognitive and Human Behavioral studies, specifically in emotional and artificial intelligence along with computer vision. -->
 
+<!-- Computer Graphics (CSCI 1230) -->
+<!-- Terminal: ~/Qt/Qt\ Creator.app/Contents/MacOS/Qt\ Creator -->
+<!-- Print: std::cout << "" << std::endl; -->
+
 <!--
 **joshbenzon/joshbenzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
