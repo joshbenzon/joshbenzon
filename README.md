@@ -1,7 +1,10 @@
-### Hey hey! 😄
+### Welcome! 😄
+
+<!-- UPDATED: August 15, 2023 -->
+I'm Josh, and I'm a senior at **Brown University** studying Computer Science with a focus on design and artificial intelligence. Along with being an avid researcher in positive psychology, my interests lie in art, management, and entrepreneurship.
 
 <!-- UPDATED: December 18, 2022 -->
-I'm Josh, and I'm a junior at **Brown University** studying Computer Science with a focus on design and software. Along with being an avid researcher in positive psychology, my interests lie in entrepreneurship, management, and art.
+<!-- I'm Josh, and I'm a junior at **Brown University** studying Computer Science with a focus on design and software. Along with being an avid researcher in positive psychology, my interests lie in entrepreneurship, management, and art. -->
 
 <!-- UPDATED: November 5, 2022 -->
 <!-- I'm Josh **(he/him)**, and I'm a junior at **Brown University** studying Computer Science with a focus on design, computer vision, graphics, and deep learning. Along with being an avid researcher in positive psychology, my interests lie in entrepreneurship and project/product management. -->
