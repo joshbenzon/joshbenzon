@@ -1,5 +1,8 @@
 ### Welcome! 😄
 
+<!-- UPDATED: January 11, 2024 -->
+<!-- TODO -->
+
 <!-- UPDATED: August 15, 2023 -->
 I'm Josh, and I'm a senior at **Brown University** studying Computer Science with a focus on design and artificial intelligence. Along with being an avid researcher in positive psychology, my interests lie in art, management, and entrepreneurship.
 
