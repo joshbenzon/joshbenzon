@@ -1,7 +1,12 @@
-<!-- UPDATED: January 11, 2024 -->
+<!-- UPDATED: March 12, 2024 -->
 ### Hello! 👋
 
-I’m Josh, a senior at Brown University studying Computer Science with a focus on design and artificial intelligence. I’m a UX Designer who is passionate about integrating technology to foster inclusive and accessible experiences for all identities, backgrounds, and ages.
+I’m Josh, a senior at Brown University studying Computer Science with a focus on design and artificial intelligence. I’m a UX Designer who is passionate about integrating technology to uplift human connections around the world.
+
+<!-- UPDATED: January 11, 2024 -->
+<!-- ### Hello! 👋
+
+I’m Josh, a senior at Brown University studying Computer Science with a focus on design and artificial intelligence. I’m a UX Designer who is passionate about integrating technology to foster inclusive and accessible experiences for all identities, backgrounds, and ages.  -->
 
 <!-- UPDATED: August 15, 2023 -->
 <!--### Welcome! 😄
