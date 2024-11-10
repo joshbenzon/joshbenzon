@@ -1,7 +1,12 @@
-<!-- UPDATED: September 14, 2024 -->
+<!-- UPDATED: November 9, 2024 -->
 ### Hello! 👋
 
-I’m Josh, a recent Brown University graduate with a background in Computer Science, focusing on Design and Artificial Intelligence. As a UX Engineer, I'm passionate about leveraging technology to foster meaningful human connections. Currently, I’m a UX Developer at Collabria, where I’m gaining startup experience to drive my career forward in the fields of educational technology and health and wellness.
+I’m Josh! I’m a product designer with a technical background and a love for languages—design, programming, and spoken. I’m here to develop design into a universal language that everyone can speak fluently… with no translation needed.
+
+<!-- UPDATED: September 14, 2024 -->
+<!-- ### Hello! 👋
+
+I’m Josh, a recent Brown University graduate with a background in Computer Science, focusing on Design and Artificial Intelligence. As a UX Engineer, I'm passionate about leveraging technology to foster meaningful human connections. Currently, I’m a UX Developer at Collabria, where I’m gaining startup experience to drive my career forward in the fields of educational technology and health and wellness. -->
 
 <!-- UPDATED: June 14, 2024 -->
 <!-- ### Hello! 👋
